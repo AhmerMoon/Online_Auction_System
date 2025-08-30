@@ -1,0 +1,13 @@
+iPhone 13 pro max,200000
+Mehran,600000
+Lodhi Painting,2
+Mac Book,1000.0
+Suzuki Hayabusa,1000000
+Galaxy-S23,1000.0
+Airpods,10000.0
+Earphone,2000.0
+RTX 4090,100000.0
+Lenovo v14 g3,144000.0
+j,1.0
+Ruby,10000.0
+Laptop,120000.0
